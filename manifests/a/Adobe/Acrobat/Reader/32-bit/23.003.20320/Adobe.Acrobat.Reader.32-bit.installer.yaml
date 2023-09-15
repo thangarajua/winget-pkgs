@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
 
 PackageIdentifier: Adobe.Acrobat.Reader.32-bit
-PackageVersion: 23.003.20320
+PackageVersion: 23.006.20320
 MinimumOSVersion: 10.0.0.0
 InstallerType: exe
 Scope: machine
